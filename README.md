@@ -4,7 +4,7 @@
 ## 📁 Struktur Repository
 - `Dataset`— [Dataset mentah yang digunakan](https://github.com/adindadwi68/Mengenali-Pola-Cuaca-Berdasarkan-Clustering-Parameter-Meteorologi/blob/main/weather_classification_data.csv)
 - `Visualization` — [Hasil visualisasi data](https://github.com/adindadwi68/Mengenali-Pola-Cuaca-Berdasarkan-Clustering-Parameter-Meteorologi/tree/main/Visual)
-- `Notebook` — [Notebook analisis menggunakan Python (Jupyter/Colab)](https://github.com/adindadwi68/Mengenali-Pola-Cuaca-Berdasarkan-Clustering-Parameter-Meteorologi/blob/main/KlusteringCuaca.ipynb)
+- `Notebook` — [Notebook analisis menggunakan Python (Jupyter/Colab)](https://github.com/adindadwi68/Mengenali-Pola-Cuaca-Berdasarkan-Clustering-Parameter-Meteorologi/blob/main/KlasifikasiCuaca.ipynb)
 - `README.md` — Halaman utama repo ini.
 
 ## 🛠️ Skillset
